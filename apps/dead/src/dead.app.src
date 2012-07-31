@@ -1,0 +1,12 @@
+{application, dead,
+ [
+  {description, "disposable erlang application deployment"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { dead_app, []}},
+  {env, []}
+ ]}.

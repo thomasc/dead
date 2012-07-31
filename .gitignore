@@ -1,0 +1,5 @@
+apps/dead/ebin/
+apps/dead/doc/*.html
+apps/dead/doc/*.png
+apps/dead/doc/*.css
+apps/dead/doc/edoc-info
